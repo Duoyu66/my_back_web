@@ -1,0 +1,16 @@
+.list-style {
+  width: 100%;
+  background-color: white;
+  padding-left: 15px;
+}
+.header-create {
+  border: 1px solid red;
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+.create-form-style {
+  display: flex;
+  flex-direction: column;
+}
+/*# sourceMappingURL=index.css.map */

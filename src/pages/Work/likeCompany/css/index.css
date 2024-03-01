@@ -1,0 +1,23 @@
+.search-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.search-form .ant-form-item {
+  margin-bottom: 0;
+}
+.header-top {
+  border: 1px solid red;
+  height: auto;
+}
+.table-style {
+  height: calc(100vh - 200px);
+  border: 1px solid red;
+  overflow-y: auto;
+}
+.ant-table-body {
+  border: 1px solid red;
+  height: calc(100vh - 150px);
+}
+/*# sourceMappingURL=index.css.map */
