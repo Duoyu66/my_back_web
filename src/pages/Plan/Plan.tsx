@@ -1,7 +1,7 @@
 const Plan=()=>{
     return (
         <div>
-            计划
+            计划1
         </div>
     )
 }
